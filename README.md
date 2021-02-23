@@ -4,8 +4,11 @@ Coding Files for project co-authored with Roberto Chang (Rutgers University and 
 Main Functions:
 
 a) fpandemic.m--> Function to run the epidemiological model
+
 b) feconomicspandemic.m-->Function that runs the economic model
+
 c) fdecentralizedshooting.m--> Function that solves the model for equilibrium
+
 d) feconomicOP.m: --> Function that runs the optimal planner's problem
 
 Intermediate Functions:
