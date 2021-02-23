@@ -3,25 +3,25 @@ Coding Files for project co-authored with Roberto Chang (Rutgers University and 
 
 **Main Functions:**
 
-a) fpandemic.m--> Function to run the epidemiological model
+a) fpandemic.m --> Function to run the epidemiological model
 
-b) feconomicspandemic.m-->Function that runs the economic model
+b) feconomicspandemic.m --> Function that runs the economic model
 
-c) fdecentralizedshooting.m--> Function that solves the model for equilibrium
+c) fdecentralizedshooting.m --> Function that solves the model for equilibrium
 
-d) feconomicOP.m: --> Function that runs the optimal planner's problem
+d) feconomicOP.m --> Function that runs the optimal planner's problem
 
 **Intermediate Functions:**
 
-a) fBellmanCMV.m: Function that runs the Bellman equation for decision makers
+a) fBellmanCMV.m --> Function that runs the Bellman equation for decision makers
 
-b) fBellmanCMVFOC.m: Function that runs the F.O.C. of the Bellman equation for decision makers
+b) fBellmanCMVFOC.m --> Function that runs the F.O.C. of the Bellman equation for decision makers
 
-c) fdynamiceconomicss.m: Function that finds the steady state of value functions
+c) fdynamiceconomicss.m --> Function that finds the steady state of value functions
 
 **Scripts:**
 
-i) CalibrationBase.m--> Do-file that sets up the benchmark calibration
+i) CalibrationBase.m --> Do-file that sets up the benchmark calibration
 
 ii) Master_Scenario_Base.m --> Do-file that solves the decentralized and the optimal planner's problem for the benchmark calibration
 
