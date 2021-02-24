@@ -27,4 +27,8 @@ ii) Master_Scenario_Base.m --> Do-file that solves the decentralized and the opt
 
 iii) Master_Scenario_Waves.m --> Do-file that solves the CARES Act application
 
+**Citation**
+If you use these files, please cite as
+Chang, R., Martinez, H., and Velasco, A. (2020) Pandemics, Incentives, and Economic Policy: A Dynamic Model
+
 
